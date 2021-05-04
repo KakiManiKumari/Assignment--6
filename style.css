@@ -1,0 +1,28 @@
+body{
+    color: maroon;
+    border-image: url(border.png) 30 round;
+}
+
+    h1 {
+        background-position: 0%;
+        background-color: wheat;
+        
+        font-size:52;
+    }
+    div {
+        background-color: tan;
+        font-size:30;
+        font-family:sans-serif;
+    }
+    p {
+        background-color: grey;
+        color:black;
+        
+    }
+    button {
+        font-size: 30;
+        color: grey;
+    }
+    result{
+        font-size: 30;
+    }
